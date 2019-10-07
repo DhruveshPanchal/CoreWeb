@@ -1,0 +1,15 @@
+D:\Dhruvesh\DotNetCore\Service\CoreService\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Dhruvesh\DotNetCore\Service\CoreService\bin\Debug\netcoreapp2.1\CoreService.deps.json
+D:\Dhruvesh\DotNetCore\Service\CoreService\bin\Debug\netcoreapp2.1\CoreService.runtimeconfig.json
+D:\Dhruvesh\DotNetCore\Service\CoreService\bin\Debug\netcoreapp2.1\CoreService.runtimeconfig.dev.json
+D:\Dhruvesh\DotNetCore\Service\CoreService\bin\Debug\netcoreapp2.1\CoreService.dll
+D:\Dhruvesh\DotNetCore\Service\CoreService\obj\Debug\netcoreapp2.1\CoreService.csproj.CoreCompileInputs.cache
+D:\Dhruvesh\DotNetCore\Service\CoreService\obj\Debug\netcoreapp2.1\CoreService.AssemblyInfoInputs.cache
+D:\Dhruvesh\DotNetCore\Service\CoreService\obj\Debug\netcoreapp2.1\CoreService.AssemblyInfo.cs
+D:\Dhruvesh\DotNetCore\Service\CoreService\obj\Debug\netcoreapp2.1\CoreService.csprojAssemblyReference.cache
+D:\Dhruvesh\DotNetCore\Service\CoreService\bin\Debug\netcoreapp2.1\CoreService.pdb
+D:\Dhruvesh\DotNetCore\Service\CoreService\bin\Debug\netcoreapp2.1\Infrastructure.dll
+D:\Dhruvesh\DotNetCore\Service\CoreService\bin\Debug\netcoreapp2.1\Infrastructure.pdb
+D:\Dhruvesh\DotNetCore\Service\CoreService\obj\Debug\netcoreapp2.1\CoreService.csproj.CopyComplete
+D:\Dhruvesh\DotNetCore\Service\CoreService\obj\Debug\netcoreapp2.1\CoreService.dll
+D:\Dhruvesh\DotNetCore\Service\CoreService\obj\Debug\netcoreapp2.1\CoreService.pdb

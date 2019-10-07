@@ -1,0 +1,9 @@
+D:\Dhruvesh\DotNetCore\Service\Infrastructure\bin\Release\netcoreapp2.1\Infrastructure.deps.json
+D:\Dhruvesh\DotNetCore\Service\Infrastructure\bin\Release\netcoreapp2.1\Infrastructure.dll
+D:\Dhruvesh\DotNetCore\Service\Infrastructure\bin\Release\netcoreapp2.1\Infrastructure.pdb
+D:\Dhruvesh\DotNetCore\Service\Infrastructure\obj\Release\netcoreapp2.1\Infrastructure.csprojAssemblyReference.cache
+D:\Dhruvesh\DotNetCore\Service\Infrastructure\obj\Release\netcoreapp2.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Dhruvesh\DotNetCore\Service\Infrastructure\obj\Release\netcoreapp2.1\Infrastructure.AssemblyInfoInputs.cache
+D:\Dhruvesh\DotNetCore\Service\Infrastructure\obj\Release\netcoreapp2.1\Infrastructure.AssemblyInfo.cs
+D:\Dhruvesh\DotNetCore\Service\Infrastructure\obj\Release\netcoreapp2.1\Infrastructure.dll
+D:\Dhruvesh\DotNetCore\Service\Infrastructure\obj\Release\netcoreapp2.1\Infrastructure.pdb
