@@ -34,3 +34,4 @@ D:\Dhruvesh\DotNetCore\Service\WebApplication\obj\Debug\netcoreapp2.1\Razor\View
 D:\Dhruvesh\DotNetCore\Service\WebApplication\bin\Debug\netcoreapp2.1\Infrastructure.dll
 D:\Dhruvesh\DotNetCore\Service\WebApplication\bin\Debug\netcoreapp2.1\Infrastructure.pdb
 D:\Dhruvesh\DotNetCore\Service\WebApplication\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Dhruvesh\DotNetCore\Service\WebApplication\bin\Debug\netcoreapp2.1\web.config

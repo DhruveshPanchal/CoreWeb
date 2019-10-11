@@ -27,6 +27,14 @@ namespace WebApplication
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            // for iis configuration
+            services.Configure<IISOptions>(options =>
+            {
+                options.AutomaticAuthentication = false;
+            });
+
+
+
             var config = new ConfigurationBuilder()
                              .AddJsonFile("appsettings.json",
                                              optional: false,
